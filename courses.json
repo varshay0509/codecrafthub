@@ -1,0 +1,34 @@
+[
+    {
+        "id": 2,
+        "name": "Introduction to Flask",
+        "description": "Learn REST API development",
+        "target_date": "2026-11-30",
+        "status": "Not Started",
+        "created_at": "2026-10-14T09:09:42.413014+00:00"
+    },
+    {
+        "id": 3,
+        "name": "Python for Data Science",
+        "description": "Learn Python programming for data analysis",
+        "target_date": "2026-12-31",
+        "status": "Not Started",
+        "created_at": "2026-10-15T09:09:42.413014+00:00"
+    },
+    {
+        "id": 4,
+        "name": "Flask REST API Development",
+        "description": "Learn to build REST APIs using Flask",
+        "target_date": "2027-01-15",
+        "status": "In Progress",
+        "created_at": "2026-10-15T09:40:08.750227+00:00"
+    },
+    {
+        "id": 5,
+        "name": "Data Structures",
+        "description": "Learn fundamental data structures",
+        "target_date": "2027-02-28",
+        "status": "Not Started",
+        "created_at": "2026-10-15T09:50:24.075797+00:00"
+    }
+]
